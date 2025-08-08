@@ -38,11 +38,10 @@ EMOJI_NAME_MAP = {
     "sadness": "crying_face",
     "surprise": "astonished_face",
 
-    # Added more for better coverage:
     "tired": "sleeping_face",
     "exhausted": "weary_face",
     "lonely": "pensive_face",
-    "hope": "smiling_face_with_smiling_eyes",   # No exact emoji for hope, use smiling face
+    "hope": "smiling_face_with_smiling_eyes",  
     "conflicted": "confused_face",
     "bored": "expressionless_face",
     "sleepy": "sleeping_face",
@@ -58,7 +57,6 @@ EMOJI_NAME_MAP = {
 FALLBACK_EMOJI = "slightly_smiling_face"  
 
 SITUATION_EMOJI_NAME_MAP = {
-    # Celebrations & Positive events
     "birthday": "party_popper",
     "congratulations": "confetti_ball",
     "party": "partying_face",
@@ -67,7 +65,6 @@ SITUATION_EMOJI_NAME_MAP = {
     "wedding": "bride_with_veil",
     "anniversary": "heart_with_ribbon",
 
-    # Common emotions & feelings
     "happy": "smiling_face_with_smiling_eyes",
     "joy": "grinning_face_with_smiling_eyes",
     "love": "red_heart",
@@ -88,7 +85,7 @@ SITUATION_EMOJI_NAME_MAP = {
     "excited": "star-struck",
     "proud": "relieved_face",
     "calm": "relieved_face",
-    "hope": "face_with_rolling_eyes",  # No perfect hope emoji, but this is often used
+    "hope": "face_with_rolling_eyes",  
     "thank": "folded_hands",
     "sorry": "pensive_face",
     "miss": "pleading_face",
@@ -96,7 +93,6 @@ SITUATION_EMOJI_NAME_MAP = {
     "hurt": "broken_heart",
     "heartbreak": "broken_heart",
 
-    # Physical states
     "sick": "face_with_thermometer",
     "fever": "thermometer",
     "cold": "cold_face",
@@ -106,7 +102,6 @@ SITUATION_EMOJI_NAME_MAP = {
     "hungry": "fork_and_knife",
     "thirsty": "cup_with_straw",
 
-    # Social & relationships
     "friend": "handshake",
     "friends": "handshake",
     "family": "family",
@@ -120,7 +115,6 @@ SITUATION_EMOJI_NAME_MAP = {
     "work": "briefcase",
     "job": "briefcase",
 
-    # Activities & things
     "music": "musical_note",
     "dance": "person_dancing",
     "coffee": "hot_beverage",
@@ -133,7 +127,6 @@ SITUATION_EMOJI_NAME_MAP = {
     "study": "books",
     "book": "book",
 
-    # Gestures & common emoji
     "ok": "ok_hand",
     "thumbs up": "thumbs_up",
     "thumbs down": "thumbs_down",
@@ -144,14 +137,12 @@ SITUATION_EMOJI_NAME_MAP = {
     "sleepy": "sleeping_face",
     "yawn": "sleeping_face",
 
-    # Misc positive/negative
     "yes": "white_check_mark",
     "no": "cross_mark",
     "stop": "raised_hand",
     "help": "raised_hand",
     "love": "red_heart",
 
-    # Add more as you think of...
 
 }
 
